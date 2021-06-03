@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A shorte treatyse of the mysterie of the Euchariste: set furth, by Lewys Euans</title>
+            <author>Evans, Lewis, fl. 1574.</author>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13492</idno><idno type="EEBO-CITATION">99852258</idno>
+  <idno type="VID">176684</idno>
+  <idno type="EEBO-PROQUEST">2240919183</idno>
+  <idno type="STC">STC 10593</idno>
+  <idno type="STC">ESTC S117043</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99852258e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 638:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A shorte treatyse of the mysterie of the Euchariste: set furth, by Lewys Euans</title>
+                  <author>Evans, Lewis, fl. 1574.</author>
+               </titleStmt>
+               <extent>[72] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Pawles Churchyarde, at the signe of the Lucrece: by Thomas Purfoote],</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno. M.D. LXIX. [1569]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name and address from colophon.</note>
+                  <note>Running title reads: A treatyse of the Eucharyste.</note>
+                  <note>Signatures: A-D E⁴.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Transubstantiation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176684:1"/>
+            <pb facs="tcp:176684:1"/>
+            <p>¶ <hi>A SHOR<g ref="char:EOLhyphen"/>te Treatyse of the</hi> mysterie of the Euchari<g ref="char:EOLhyphen"/>ste: set furth, <hi>By Lewys Euans.</hi>
+            </p>
+            <bibl>¶ <hi>Aug. super Psal: 89.</hi>
+            </bibl>
+            <q>¶ <hi>You shall not ea<g ref="char:EOLhyphen"/>te</hi> this bodye, which youe <hi>see, neyther shall youe drinke the bloud, which they wil shead. It is a mysterie that J speake vnto youe, which, if it bee vnderstanded spirituallye, will quicken you.</hi>
+            </q>
+            <p>¶ Anno. M.D. LXIX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176684:2"/>
+            <pb facs="tcp:176684:2"/>
+            <head>¶ TO THE INDIF<g ref="char:EOLhyphen"/>ferent Reader.</head>
+            <p>
+               <seg rend="decorInit">S</seg>YTHENCE THE IMPRES<g ref="char:EOLhyphen"/>sion of my last litle booke (Lo<g ref="char:EOLhyphen"/>uing Reder) I heare, and I am creadiblye enfourmed, of the grudging stomackes, and of the yuell wil<g ref="char:EOLhyphen"/>ling mindes of a numbre towardes me to<g ref="char:EOLhyphen"/>wardes me? na, towardes God, towardes their soueraigne towardes their countrey. Well: It is not <hi>Cerberus</hi> his thre folde bar<g ref="char:EOLhyphen"/>king, yt is not hell, yt is not <hi>Pluto</hi> that can dryue me frō the standarde of Christ. But what is the cause, that I am thus repre<g ref="char:EOLhyphen"/>hended? forsooth, because I will holde no lengre with pryde, because I renounce superstition, because I set furthe the truth, and doe knowelaige the very Christian Re<g ref="char:EOLhyphen"/>ligion. Alas, what doe men meane? shall Dreames preuayle? shall vntruthes ouer<g ref="char:EOLhyphen"/>come? shall self will haue the vpper hande? shall blindenes still triumphe? shall ydola<g ref="char:EOLhyphen"/>trie haue the victorie? as sure as God ly<g ref="char:EOLhyphen"/>ueth, sonde fryars fables be at an ende, Priestes deceaptefull deuyses are knowen, the proude murmuring of Munkes be well vnderstanded, and the abuses that haue bene, can neuer be in force agayne. Oh,
+<pb facs="tcp:176684:3"/>howe doe men, and howe many doe vtter their malice, their spight, theire enuie a<g ref="char:EOLhyphen"/>gaynst me? Yea, hauing no matter (God I thanke for it) to reprehēde in my trade of lyfe: what saye they? he is a turne coate, he is madde. what? as Festus did, will these men doe? will they say? <hi>Insanis Paule,</hi> thou arte madde Paule. &amp; is this all the shifte they haue? when my Lorde Bushop of Sa<g ref="char:EOLhyphen"/>rusburie was wryting of his booke, what toye thinke youe had they deuised against him? forsoothe, they thought it good to brute abrode, &amp; that by no meane head<g ref="char:EOLhyphen"/>des, howe throughe studie he was becōme madde: but thankes be vnto God, his ho<g ref="char:EOLhyphen"/>nour is knowen, to bee so farre from mad<g ref="char:EOLhyphen"/>nes, as they are from modestie, so farre from one iote of rashenes, as they are from reason, and right vnderstanding. And ha<g ref="char:EOLhyphen"/>ue they deuised nowe the lyke tearme also agaynst me? God amende them, and God graunte that some maye haue indifferent eyes, to see that I wryte the truethe, and that with sobrietie. And touching myne aduersaries, God geue them hartes to vn<g ref="char:EOLhyphen"/>derstande where they were broughte vp, what countrey men they bee, and whence it is that they haue their succour, their
+<pb facs="tcp:176684:3"/>reliefe, and liuinges. They knowe what I meane, and they are not ignorante what I doe knowe. But for my parte I meane to hurte nonne, if I can doe vnto any of them good, I will. yet let them vse huma<g ref="char:EOLhyphen"/>nitie, let them not bee to spightefull, let them not belye mee. Wel, I haue for thi<g ref="char:EOLhyphen"/>ne instruction (Indifferent Reader) here set furthe these fewe leafes, wherein I ha<g ref="char:EOLhyphen"/>ue briefelye declared the meaning of Ho<g ref="char:EOLhyphen"/>lye Scripture, and also haue adioyned therevnto the autorites of auncient fa<g ref="char:EOLhyphen"/>thers, and that touching the righte vse, and vnderstanding of the Lordes Supper: I haue lykewise annexed in thee later en<g ref="char:EOLhyphen"/>de, the absurde errours wherevnto they fall, who wolde defende therein a car<g ref="char:EOLhyphen"/>nall presence. Wherefore as I doe this of a good wyll, so wishe thou me good, and wishe that mine enemies maye bee more charitable, yea and (not withstāding their hatred) that yet towardes them I maye bee proffitable: which shalbe, if they reade my workes, &amp; that but with some indiffe<g ref="char:EOLhyphen"/>rencie.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:176684:4"/>
+            <head>¶ <hi>The sainges of the doctors</hi> CONCERNING THE SVPPER OF OVR Lorde.</head>
+            <q>
+               <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+               <p>A Sacrament is a visible for<g ref="char:EOLhyphen"/>me, of an inuisible grace.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Idem in Psal. 3.</hi>
+               </bibl>
+               <p>Christ gaue the figure of his bodye.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Idem contra Adim:</hi>
+               </bibl>
+               <p>Christ doubted not to saye: This is my bodye, when hee gaue the signe of his bodye.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Tertull:</hi>
+               </bibl>
+               <p>This is my bodye, that is, a fi<g ref="char:EOLhyphen"/>gure of my bodye.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Idem contra Marcion.</hi>
+               </bibl>
+               <p>Christ with bread did repre<g ref="char:EOLhyphen"/>sent
+<pb facs="tcp:176684:4"/>his bodye.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Basil.</hi>
+               </bibl>
+               <p>The bread is the similitude of Christ his bodye.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Euseb: Emissenus.</hi>
+               </bibl>
+               <p>Thowe must touche with thy minde, &amp; thou must receiue with the hande of thy harte, the bodye of Christ.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Hieron. super Matth.</hi>
+               </bibl>
+               <p>By bread, &amp; wine, the bodye and bloud of Christ, is repre<g ref="char:EOLhyphen"/>sented. &amp;c.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Chrys. in Epist: ad Cor.</hi>
+               </bibl>
+               <p>Christ in the bread, &amp; in the cup sayde: doe ye this in the remembrance of me.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Cyrill: in Ioan.</hi>
+               </bibl>
+               <pb facs="tcp:176684:5"/>
+               <p>He gaue vnto them pieces of bread.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Gelasius contra Eutychem.</hi>
+               </bibl>
+               <p>The substance of bread, and wine doe styll remayne.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Theodoretus contra Eutychem.</hi>
+               </bibl>
+               <p>The holye signes doe remay<g ref="char:EOLhyphen"/>ne in theyr former substan<g ref="char:EOLhyphen"/>ce, figure, and kinde.</p>
+            </q>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:176684:5"/>
+            <head>¶ OF THE MYSTE<g ref="char:EOLhyphen"/>rie of the Euchariste.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F the woordes of Christ might be, as they sholde be (lo<g ref="char:EOLhyphen"/>uing Christians) sufficiēte to instructe vs, then is the supper of our Lorde in playne wyse set furthe, and without any ambiguitie vt<g ref="char:EOLhyphen"/>tered, it is without any doub<g ref="char:EOLhyphen"/>te therin to be made, or any question at all to be moued, at large by our sauiour prea<g ref="char:EOLhyphen"/>ched, pronounced, and decla<g ref="char:EOLhyphen"/>red: Jfvse may preuayle to confirme the truth, then haue
+<pb facs="tcp:176684:6"/>righte skilfull men, whiche were in, and of the primitiue churche, truelye established vnto our predecessours, vnto vs, and our successours, the right sense, and true vnder<g ref="char:EOLhyphen"/>standinge, of the Comunion of the bodye, and bloud of oure redeamer Christ: If witte, na, if the grace rather of the holy ghost, can helpe to open vnto vs, the light herein of goddes woorde, &amp; to make manifest in so high a mysterie, the will, and meaning of God, then haue we in this behalfe to ap<g ref="char:EOLhyphen"/>proue
+<pb facs="tcp:176684:6"/>oure doctrine, the elo<g ref="char:EOLhyphen"/>quence of S. Paule, the actes of the Apostles, &amp; in them the inspiration of Goddes spiri<g ref="char:EOLhyphen"/>te: Yf the learninge and gra<g ref="char:EOLhyphen"/>uitie of good men, of men well sene in all knowelaige, and ar<g ref="char:EOLhyphen"/>tes, maye auayle to teache vs that which is true, to engraffe in vs what thing by Christ his laste supper is meante, to shewe howe, and why, we haue, doe, &amp; sholde dayly receaue it, then haue we touching the same, the sermones of such as were singu<g ref="char:EOLhyphen"/>ler, the exposicion of men that
+<pb facs="tcp:176684:7"/>were skilful, &amp; the necessarie notes of those that were no<g ref="char:EOLhyphen"/>table: to be briefe, if the death &amp; persecution of constante, mieke, and holye martyres, may doe no smale good, to te<g ref="char:EOLhyphen"/>stifie the truthe in Christē do<g ref="char:EOLhyphen"/>ctrine, to expresse a certētie in true religiō, &amp; specialy to cō<g ref="char:EOLhyphen"/>firme (for of that we now trea<g ref="char:EOLunhyphen"/>te) the faith &amp; belefe, which al the faithfull shold haue, &amp; holde concerning this sacra<g ref="char:EOLhyphen"/>mente, then haue wee in good writing, and the same appro<g ref="char:EOLhyphen"/>ued by indifferēte testimonie,
+<pb facs="tcp:176684:7"/>howe a nūbre haue died, we a<g ref="char:EOLhyphen"/>re creadeblie enformed, how, whē, &amp; wher, an infinite sor<g ref="char:EOLhyphen"/>te haue suffered their blood to be sheade, their bodyes to bee toarne, their limmes to bee reant, &amp; their carcasses to be bournt, &amp; that for the testi<g ref="char:EOLhyphen"/>monie of the same. what shall I therefore be able at this ty<g ref="char:EOLhyphen"/>me to doe? what thing wor<g ref="char:EOLhyphen"/>thie the hearing, shall I be a<g ref="char:EOLhyphen"/>ble to bring into lighte? my exercyse is nothing, my witte is smale, my learning is sclen<g ref="char:EOLhyphen"/>dere, myne experience is
+<pb facs="tcp:176684:8"/>litle. What can I haue then here to vtter, that maye fur<g ref="char:EOLhyphen"/>ther this cause, or that maye to anye purposse extoll thys misterie? what is in me that may make to youre instruction, to persuade, to exhorte you? yea, weyghing the power of satan, the eloquence of his Orators, the might of his monarches, the practises of his proctors, the su<g ref="char:EOLhyphen"/>bteltie of his seruauntes, &amp; the decepte of hys Doctors: what maketh me this bolde? why am I so earnestlye moued to warre againste him? to hinder his en<g ref="char:EOLhyphen"/>terprises?
+<pb facs="tcp:176684:8"/>to abate his coura<g ref="char:EOLhyphen"/>ge? to beate downe his banner? to conquiere his armye? in dede of my selfe ouer weake thereun<g ref="char:EOLhyphen"/>to I am, farre vnable I knowe<g ref="char:EOLhyphen"/>laige my selfe to be, yet my good will, your good meaninges, and speciallye the woorde of God, beinge the verye bulwarke of faithe, the onelye fortresse of Christianitie, and the most sin<g ref="char:EOLhyphen"/>guler shielde of true religiō, can doe it. Wherfore as it behoueth hym, whiche feighteth for hys Prince, and in the defence of equitie, and a rightfull cause,
+<pb facs="tcp:176684:9"/>not to stagger, but to stande stedfast, not to quauer, but to be constante, not in his prince his sight to geue backe, but to aduēture him selfe, to be bol<g ref="char:EOLhyphen"/>de, not to feare but to shewe furthe his courage: so shall I at this presente, rather shewe the wante of power, then of will, the wante rather of abilitie, then of a bolde harte and good mea<g ref="char:EOLhyphen"/>ning. But can hee at anye ty<g ref="char:EOLhyphen"/>me wante, whose will is to de<g ref="char:EOLhyphen"/>fende the truethe? can hee at all lacke, whiche taketh the parte, I saye not of one, or of
+<pb facs="tcp:176684:9"/>an earthely prince, but of the prince of al prīces, of his lord, of his Creator, of God? what, where, or who again are they, that can withstāde the power of the almighty? that may re<g ref="char:EOLhyphen"/>sist his force, or that may glo<g ref="char:EOLhyphen"/>rie with anye wished successe against him? Herode was ri<g ref="char:EOLhyphen"/>chely, &amp; royally cloathed,
+<note place="margin">Acts 12</note> he sat with grete maiestie in his seate of iudgemēte, his people were all about him, he made so pleasante an Oration vnto them, as the same amongst o<g ref="char:EOLhyphen"/>ther things moued thē to say,
+<pb facs="tcp:176684:10"/>that it was the voyce of god, &amp; not of mā. But yet marke howe God dealte withe him:
+<note place="margin">Ibidem.</note>
+               <hi>Con<g ref="char:EOLhyphen"/>festim percussit eum ange<g ref="char:EOLhyphen"/>lus domini, by and by the angel of the Lorde strake him.</hi> and why? <hi>Eo quod non dedisset gloriam Deo, Be<g ref="char:EOLhyphen"/>cause he gaue not the glorie vnto God.</hi> And what futher came of him?
+<note place="margin">Ibidem.</note>
+               <hi>Erosus a ver<g ref="char:EOLhyphen"/>mibus expirauit, Hee died being deuoured with wor<g ref="char:EOLhyphen"/>mes.</hi> Yf this thē be the ende of all suche as striue against god, why sholde I feare to striue a<g ref="char:EOLhyphen"/>gainst
+<pb facs="tcp:176684:10"/>the vngodlye? againste dreames? against horrible opi<g ref="char:EOLhyphen"/>niones? againste heresie? why sholde I feare the frowninges of men? why shold I dreade the manacing hartes of the haw<g ref="char:EOLhyphen"/>tye? why sholde I regarde thee secrete hatred, the enuious har te, or grudginge stomacke of a<g ref="char:EOLhyphen"/>nye? it is hard, it is not for mās ease, to kicke againste the spur<g ref="char:EOLhyphen"/>re, the trueth wil not be shado<g ref="char:EOLhyphen"/>wed with the subteltie of mē, it is not for man to foster vs anye lēgre in blindenes, to nousel vs further in feare, &amp; that, in the
+<pb facs="tcp:176684:11"/>feare of bugges, of white shee<g ref="char:EOLhyphen"/>tes, of counterfaicte voyces, of false tales, of feyned glosys, of sinister exposiciōs, of fonde au<g ref="char:EOLhyphen"/>torities, of incredible assertiōs, of lieng legēdes, of seely sengle fryare sermons, or of any iug<g ref="char:EOLhyphen"/>ling, or legier de mayn dealīg. We are born, we knowe, to pro<g ref="char:EOLhyphen"/>ffite our coūtrey, to please our parētes, &amp; to benifite our frē<g ref="char:EOLhyphen"/>des, but aboue all we doe owe a more speciall obediēce vnto god, it is meeter that we hea<g ref="char:EOLhyphen"/>re rather him thē mā, &amp; that we feare him before father, frēd, or any of our familiars,
+<pb facs="tcp:176684:11"/>for (as Cicerosaith) <hi>Religio,</hi>
+               <note place="margin">Cice of<g ref="char:EOLhyphen"/>sic. li. 3.</note>
+               <hi>&amp; fides anteponātur amici<g ref="char:EOLhyphen"/>tiae, religion, and faith must be preferred before frend<g ref="char:EOLhyphen"/>shippe.</hi> but shall we beginne, &amp; see cōcerning the supper of our Lord, the state of the que<g ref="char:EOLhyphen"/>stion, betwene the Bushop of Rome &amp; vs, that is, betwene the Pope, &amp; the Gospell? the knowelaige of it, is not onelye easy, but also most proffitable. Ytis easy, for by the onely, &amp; holy scripture (which thīg by Goddes helpe we here meane now to doe) it may be proued, the righte sense maye be she<g ref="char:EOLhyphen"/>wed,
+<pb facs="tcp:176684:12"/>the meaning may be clea<g ref="char:EOLhyphen"/>re, why, when, &amp; howe the sa<g ref="char:EOLhyphen"/>me was instituted it maye ap<g ref="char:EOLhyphen"/>peare. Proffitable it is, for as without the due, and perfecte iudgemente therein, wee shall stande, howesoeuer we esteme oure selues, but in the state of outecastes, &amp; abiectes: so by the worthy receauing, and true esteaming of the same, we shall not fayle of a moste excellente felicitie, of the benefite of the bodye, &amp; bloud of our sauiour Christe, of heauen, &amp; euerla<g ref="char:EOLhyphen"/>lasting saluation. Manye as
+<pb facs="tcp:176684:12"/>I haue sayde, there are, who were learned, wise &amp; godly, that haue some at large, and some in briefer wyse, treated, and set furthe theire iudge<g ref="char:EOLhyphen"/>mentes concerning this holye sacramente. But as vpon one platte, or piece of grounde, a numbre doe oftentimes buyl<g ref="char:EOLhyphen"/>de diuerse buildinges, &amp; the same varieng in shewe, and proportion, the one from the other, all yet tending to good endes, and vses, as to defende vs frō the iniurie of the wea<g ref="char:EOLhyphen"/>ther, and suche lyke, so vpon
+<pb facs="tcp:176684:13"/>one place of hollye Scripture, vpon the worde of god, sundrie good, and Godlye men haue written diuerselye: diuerselye, I saye, in that some vsed one example, and some an other, all yet (of the godlie I speake) tending to augmente deuotion, to banishe superstition, and to extoll true pietie, and perfecte religion. I will therefore at this presente, omitte the buil<g ref="char:EOLhyphen"/>dinges of others, thoughe the same be proffitable, fayre, pleasante, and necessarie: and I will endeuour vpon these
+<pb facs="tcp:176684:13"/>woordes of oure sauiour Chri<g ref="char:EOLhyphen"/>ste. <hi>(This is my bodie,</hi>
+               <note place="margin">Lue 22.</note>
+               <hi>that is giuen for you)</hi> to fra<g ref="char:EOLhyphen"/>me, and set vp suche a smale and simple cotage, as, though yt seme not worthye of buyl<g ref="char:EOLhyphen"/>dinge, in comparason of the estatelie frames, and char geable workes of others, shall yet aswell declare my good wil, as also peraduenture defen<g ref="char:EOLhyphen"/>de, and succour some one in so peryllous a tyme, at the lest from parte of the ra<g ref="char:EOLhyphen"/>ginge stoarmes, and tem<g ref="char:EOLhyphen"/>pestes that raygne, from the
+<pb facs="tcp:176684:14"/>myste, &amp; blindenes that men bee in, and from thee abuse, which of so long a tyme hathe creapte in amongst vs, cōcer<g ref="char:EOLhyphen"/>ning the order &amp; vse of the Lords supper. And as of whi<g ref="char:EOLhyphen"/>te, &amp; blacke being ioyned to<g ref="char:EOLhyphen"/>gether, the difference, &amp; va<g ref="char:EOLhyphen"/>rietie in collour is sone tryed, so shall I at this myne entrye into this treatise, set furth, &amp; shewe here nowe before youe, the blacke clouds, &amp; darke<g ref="char:EOLhyphen"/>nes of Satan, wherewithe he wolde diminishe the lighte of holie Scriptures, &amp; altoge<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:176684:14"/>ouerthrowe the righte sense, and clere vnderstan<g ref="char:EOLhyphen"/>dinge of the same. <hi>Christ</hi> (saythe S. Luke.)
+<note place="margin">Luc 22.</note>
+               <hi>Tooke bread, and whē he had giuē thankes, he brake it, and ga<g ref="char:EOLhyphen"/>ue it vnto his disciples, wil<g ref="char:EOLhyphen"/>linge them in his remem<g ref="char:EOLhyphen"/>braunce to doe in like ma<g ref="char:EOLhyphen"/>ner the same.</hi> And here (whiche thing youe shall see anonne proued very euident<g ref="char:EOLhyphen"/>lie out of the woorde of God) by the sacramente of bread and wine, by these holye sig<g ref="char:EOLhyphen"/>nes, throughe faythe they re<g ref="char:EOLhyphen"/>ceaued
+<pb facs="tcp:176684:15"/>spirituallye, the bo<g ref="char:EOLhyphen"/>dye, and Bloud of oure redea<g ref="char:EOLhyphen"/>mer Christe, the benefite (O compfortable Supper!) of his birthe, passion, and resurre<g ref="char:EOLhyphen"/>ction. This is the doctrine of oure sauiour, this haue the A<g ref="char:EOLhyphen"/>postles professed, this doethe hollye Scripture confirme, &amp; thys meane I to sett furthe vnto youe. But the Bushop of Rome, he on the cōtrarie syde laboureth most earnestly, to o<g ref="char:EOLhyphen"/>uershadowe this teachinge of Christe, &amp; to bring in a newe doctrine, a carnall eatinge, a
+<pb facs="tcp:176684:15"/>Cauphernaites murmuring, a fleashlie meaning. And yet as euery vntruth, may not abyde any diligēt triall, as all absur<g ref="char:EOLhyphen"/>dities will at the leanght in their own hewe appeare, &amp; be seene, so shal you nowe see, into what inconueniēces, yea, into what blasphemies, the Bushop of Rome falleth, whiles he to<g ref="char:EOLhyphen"/>gether with his, wolde defen<g ref="char:EOLhyphen"/>de in this behalfe their owne dreames, and false doctrine. I wil not trouble you with many of his graue fathers, one that hath in him greate grauitie,
+<pb facs="tcp:176684:16"/>J will bring for them to spea<g ref="char:EOLhyphen"/>ke. I will not fayne any thing by him spoken, his owne spea<g ref="char:EOLhyphen"/>che is thys: <hi>Nescio an in Deum panis, an Deus con<g ref="char:EOLhyphen"/>uertatur in panem,</hi>
+               <note place="margin">Valla de myster: Eucha<g ref="char:EOLhyphen"/>ristiae.</note>
+               <hi>I can not tell (sayth he) whether the breade be tourned into God, or God be turned into bread.</hi> O doubtes to be banished from Christen ea<g ref="char:EOLhyphen"/>res! O vyle, and blasphe<g ref="char:EOLhyphen"/>mous teachinge! O lewde, and monstrous writinge! Yf the bread be turned into god, then haue we our creator, to
+<pb facs="tcp:176684:16"/>become a creature, we haue our maker to bee him self ma<g ref="char:EOLhyphen"/>de. And wherof? of bread, of a very simple, and base sub<g ref="char:EOLhyphen"/>stance. O Christē men, who can abyde this? who will not abhorre to heare of suche a tourning? this, this is it, to tourne from God, to treade crooked pathes, to wander in selfe will windinges, and to trace deceiptefull strange tourninges. Agayne, If god be turned into bread, then is our creator, become nowe a crea<g ref="char:EOLhyphen"/>ture, he is become of a substan<g ref="char:EOLhyphen"/>ce
+<pb facs="tcp:176684:17"/>withoute bodye, to be cor<g ref="char:EOLhyphen"/>porall, of God not to be man, but to be breade. Oh, beware suche false teachinge, detest suche intollerable dowbtes, auoyde such carnal, &amp; dam<g ref="char:EOLhyphen"/>nable meaning. here we see, what it is to forsake the scrip<g ref="char:EOLhyphen"/>tures, to leaue the perfecte waye, to enter into such dan<g ref="char:EOLhyphen"/>gerous steappes, to deale so carnallie, to folowe fooles, to beleue fryars, and to putte all affiance so fondlye in the Po<g ref="char:EOLhyphen"/>pe. Js not this then sufficient to admonishe vs? may we not
+<pb facs="tcp:176684:17"/>perceaue by this, what doctri<g ref="char:EOLhyphen"/>ne they holde, what errours they haue, what heresyes they be in? yea, will you see, howe treating of this sacramente, they flattelye doe doubte the incarnatiō of Christe? Yf this may nowe appeare, and that withoute yffes, and ands, without anye circumstances, you must nedes then abhorre thē, you must, if you be not par<g ref="char:EOLunhyphen"/>tiall, perceaue their absurdi<g ref="char:EOLhyphen"/>ties. Weygh their own wordes they be these: <hi>Filius Dei in mundum veniens, sum<g ref="char:EOLhyphen"/>psit
+<pb facs="tcp:176684:18"/>ex intemeratissimo vir<g ref="char:EOLhyphen"/>ginis Corpore, nescio an dicam carnem: I can not tell (saythe hee) wether I maye saye, that the sonne of God cominge into thys worlde, tooke fleash of the moste vndefiled bodye of the virgin.</hi> Can not youe tell? We can tell, to God we than<g ref="char:EOLhyphen"/>ke for it, and wee beleue it. See good Christians, see Christ his incarnacion doubted of, see the ende of their studies, see here, whiles they wold defen<g ref="char:EOLhyphen"/>de his very fleash to bee in the
+<pb facs="tcp:176684:18"/>sacramente, howe they doubte whether he verelye tooke flea<g ref="char:EOLhyphen"/>she of the virgin, yea (for so they afterwardes alleage) how they denye yt. But was thys onelye the opinion of one? or was it not preached in Chri<g ref="char:EOLhyphen"/>stendome? was yt not imprin<g ref="char:EOLhyphen"/>ted, and published, as a sounde doctrine to instructe men in? is it not in wryting, and in a ma<g ref="char:EOLhyphen"/>ner euerye where to be sene? O poore Protestantes, if this had passed your penne, if but one of youe had preached suche doc trine, the world had nowe soone
+<pb facs="tcp:176684:19"/>foūd it, but because the Pope doeth so, al is wel, it is no mat<g ref="char:EOLhyphen"/>ter, he may denie Christ his in carnatiō, he may renoūce Chri<g ref="char:EOLunhyphen"/>stianitie, hee maye doe what him lysteth, such is his autori<g ref="char:EOLhyphen"/>tie. J haue here marked vnto you the by pathe that leadeth to perdiciō: set therefore a side all wilfull partialitie, put on indifferencie, iudge, J aske no more, but vprightlie: is it not an enemie vnto Christe his in<g ref="char:EOLhyphen"/>carnacion? doeth it not bende altogether frō holines? doeth it not resiste true religion? is it
+<pb facs="tcp:176684:19"/>not a foe vnto oure faith, vnto the professiō of al good christi<g ref="char:EOLhyphen"/>ans? be not astoyned, stād not stil bound in blindnes, let your eares heare, let your eyes see, thīke yea, or no. But if you be<g ref="char:EOLhyphen"/>lieue, as J know you doe, that our sauiour was incarnate, thē defie suche, who though other<g ref="char:EOLhyphen"/>wise they be to carnal, doe yet here doubte, &amp; denie his in<g ref="char:EOLhyphen"/>carnaciō. For of these it is, that in s. Paul the holy ghost saith:
+<note place="margin">Act. 20</note>
+               <hi>Ex vobis ipsis exoriētur vi<g ref="char:EOLhyphen"/>ri, loquētes peruersa, vt ab<g ref="char:EOLhyphen"/>ducant Discipulos post se,
+<pb facs="tcp:176684:20"/>euon from amongst youre selues shall men aryse, spea<g ref="char:EOLhyphen"/>kinge peruerse thinges, to drawe disciples after them.</hi> From amongst vs (dere Chri<g ref="char:EOLhyphen"/>stians) hathe the Bushop of Rome rysen, speaking peruer<g ref="char:EOLhyphen"/>se, and blasphemous things, to drawe Disciples, to allure foolishe vnlearned Fryars, to leade mumming Munkes, to persuade simple Priestes, to entise the learned, to compell the ignorante, to cōpasse with his loolling that the most part of Christendome sholde come
+<pb facs="tcp:176684:20"/>after him, and to worke with his vayn blessing, that a num<g ref="char:EOLhyphen"/>bre of Christians might not in dede be blessed. But to leaue these mē, (&amp; J wold we leaf<g ref="char:EOLhyphen"/>te them betyme, for they are ouer carnall, they doubte of Christ his incarnation, they denie that he was incarnate) Let vs with the helpe of holy Scripture set furth, &amp; we will doe it playnlie, the beliefe of the Apostles, &amp; the meaning of Christ concerning his laste Supper.
+<note place="margin">Luc 22. Mat. 28 Mar 14</note>
+               <hi>Our sauiour eating with his Disciples the easter
+<pb facs="tcp:176684:21"/>Lambe, as they satte at sup<g ref="char:EOLhyphen"/>per, tooke breade, and af<g ref="char:EOLhyphen"/>ter he had gyuen thankes, he brake it, and gaue it vn<g ref="char:EOLhyphen"/>to them saying: this is my bodie, whiche is giuen for you, doe you this in the re<g ref="char:EOLhyphen"/>mēbrance of me. He tooke likewyse after Supper the cup, &amp; sayd: This cup is the new testamēt in my bloud, whiche is shead for youe.</hi> This is that hollye pleadge, whiche hee a litle before his death dyd institute to be with them a remembraunce of his
+<pb facs="tcp:176684:21"/>bodye cruciefied, and giuen on the Crosse, of hys bloud at hys Passion shead for them, of him selfe the onelye raunso<g ref="char:EOLhyphen"/>me to redeme them from sin<g ref="char:EOLhyphen"/>ne: these are those hollye sig<g ref="char:EOLhyphen"/>nes, vnder whiche throughe faithe, they were spirituallye fead, with the bodie, &amp; bloud of Christ, vnder which throu<g ref="char:EOLhyphen"/>ghe beliefe, they were made one with our sauiour, and as<g ref="char:EOLhyphen"/>sured by his Passion, and re<g ref="char:EOLhyphen"/>surrectiō (what wold they mo<g ref="char:EOLhyphen"/>re?) of eternal rest, &amp; salua<g ref="char:EOLhyphen"/>ciō. For as in the sacramēte of
+<pb facs="tcp:176684:22"/>Baptisme, the infante is fully released from Adams offen<g ref="char:EOLhyphen"/>ce, which is not doone by wa<g ref="char:EOLhyphen"/>ter alone, but by the grace of the almightye, who vseth his creatures as meanes to woor<g ref="char:EOLhyphen"/>ke, and to shewe his glorie in. The exāple whereof we haue when our sauiour, in healing the man that was blinde from his natiuitie,
+<note place="margin">
+                  <hi>Ioan.</hi> 9.</note> vsed claye tem<g ref="char:EOLhyphen"/>pered with spittell, further commaunding that hee sholde goe washe him self in the poo<g ref="char:EOLhyphen"/>le, or well of Syloe. So likewi<g ref="char:EOLhyphen"/>se wee are commaunded to re<g ref="char:EOLhyphen"/>ceaue
+<pb facs="tcp:176684:22"/>breade, and to take the cup, by those as meanes (for such was Christ his will) to be partakers of his bodye, and bloud, to be healed from sin<g ref="char:EOLhyphen"/>ne, to feede neyther by rashe reason, nor yet by carnall vn<g ref="char:EOLhyphen"/>derstanding, but by faithefull beliefe on him. And as it had bene a verye lewde thing, for that blinde man, to impute his healing, &amp; the receapte of his sight, vnto the onelie clay and water, which hee knewe to be mere creatures: so sholde we doe a thing very absurde, and
+<pb facs="tcp:176684:23"/>wicked, yf wee dyd attribute vnto the bare bread, the bene<g ref="char:EOLhyphen"/>fite of our feading, or vnto the creatures the compfort, which we haue by oure creator. For the vertue was in our sauiour that healed the blynd mā, the vertue is in heauen that fee<g ref="char:EOLhyphen"/>deth vs, from thēce we recea<g ref="char:EOLhyphen"/>ue the bodye and bloud of our redemer Christ. And as the claye, and water, being mere creatures, were to be had in estimacion, for that the Lorde vsed them as meanes to heale the bodye: So these hollye sig<g ref="char:EOLhyphen"/>nes,
+<pb facs="tcp:176684:23"/>this breade and wyne are muche rather to be regarded, seynge it pleased oure sauioure to vse them as meanes to esta<g ref="char:EOLhyphen"/>blishe oure faithe, to further oure beliefe, to feede oure sou<g ref="char:EOLhyphen"/>les. We see that a Prince com<g ref="char:EOLhyphen"/>maunding by worde of mouthe thys, or that thinge to be don<g ref="char:EOLhyphen"/>ne, hys commaundemente furthewithe is fulfylled, and why? yt is trowe yee, for any vertue that is in the wor<g ref="char:EOLhyphen"/>de spoken? or is it not rather for the autoritie and power, which still remayneth in the
+<pb facs="tcp:176684:24"/>Prince? is it not eyther for feare of his further displeasu<g ref="char:EOLhyphen"/>re, &amp; indignaciō, or to perfor<g ref="char:EOLhyphen"/>me the duetie, which they owe vnto his calling, &amp; personne, orels in hope by contenting hys will, to attayn credite, fa<g ref="char:EOLhyphen"/>uour, or some other cōmoditie? so likewyse,
+<note place="margin">Mat. 3.</note> whereas oure sa<g ref="char:EOLhyphen"/>uiour willed the lame to goe, the leapres to be cleansed, &amp; the blinde to see: shal we thin<g ref="char:EOLhyphen"/>ke, that by the vertue in the words vttered they were hea<g ref="char:EOLhyphen"/>led? or shal we not belieue that the power was permanente in
+<pb facs="tcp:176684:24"/>Christ, &amp; that by their faith in him they were cured? we see then that neither the bare words vttered by the minister at the cōmuniō, cā haue in, &amp; of thē selues any suche power, nor yet that the very creatu<g ref="char:EOLhyphen"/>res of bread, &amp; wine, can ha<g ref="char:EOLhyphen"/>ue in them conteigned any su<g ref="char:EOLhyphen"/>che force, or vertue. Whiche thing being, as it is, very play<g ref="char:EOLhyphen"/>ne, we must graunte that from aboue it is, that the vertue proceadeth, &amp; that as the A<g ref="char:EOLhyphen"/>postles receaued the one of the other, and that vnder bread,
+<pb facs="tcp:176684:25"/>and wyne, by faithe the bodie of Christ spirituallie: so we re<g ref="char:EOLhyphen"/>ceauing in the communion at the Ministers handes, thys sacramente of bread, and wy<g ref="char:EOLhyphen"/>ne, we receaue of the Lord by our faithe in him, the benefi<g ref="char:EOLhyphen"/>te of his deathe, and resurre<g ref="char:EOLhyphen"/>ction, we receaue the bodye of Christ, we receiue his bloud. But how? carnalias the Cau<g ref="char:EOLhyphen"/>pernaites dyd thinke? no wee receaue them spirituallie, and that we so doe, the wordes of Christ doe the testifie.
+<note place="margin">Ioan. 6.</note>
+               <hi>For the spirite it is, (sayth he) that
+<pb facs="tcp:176684:25"/>quickeneth, the fleash pro<g ref="char:EOLhyphen"/>ffiteth nothing.</hi> And as nowe a numbre, so then many of his Disciples, hearinge hym to preache vnto them, that they must eate his fleash, and drin<g ref="char:EOLhyphen"/>ke his bloud, they sayd:
+<note place="margin">Jbidem.</note>
+               <hi>Du<g ref="char:EOLhyphen"/>rus est hic sermo, this is a harde saing.</hi> But what sayd Christe agaynste their mur<g ref="char:EOLhyphen"/>muring?
+<note place="margin">Jbidem.</note>
+               <hi>Verba quę ego lo<g ref="char:EOLhyphen"/>quor vobis, spiritus, &amp; vita sunt, the words that I spea<g ref="char:EOLhyphen"/>ke vnto you are spirite, and lyfe. Hoc vos offendit.</hi>
+               <note place="margin">Jbidem.</note>
+               <hi>doth thys offende youe?</hi> They
+<pb facs="tcp:176684:26"/>thought to haue eaten hym carnallie:
+<note place="margin">Jbidem.</note> but he sayd: <hi>Quid &amp;c, what if you see the son<g ref="char:EOLhyphen"/>ne of mā to ascende thither, where he before was?</hi> where is then the cause of their mur<g ref="char:EOLhyphen"/>muring? howe shold they then thinke, to haue eatē him car<g ref="char:EOLhyphen"/>nalie? why shold not they, why shold not we, beleue that wee eate him spiritualye? S. Ma<g ref="char:EOLhyphen"/>thew, S. Mark &amp; S. Luk doe together, &amp; in manifest wor<g ref="char:EOLhyphen"/>des expresse, that Christe too<g ref="char:EOLhyphen"/>ke breade, &amp; gaue it vnto his Disciples, yea, &amp; that they
+<pb facs="tcp:176684:26"/>dyd also eate bread, (for this is the questiō) S.
+<note place="margin">1. Cor 11</note> Paulin play ne wise doeth testifie. <hi>Quoti<g ref="char:EOLhyphen"/>escunque enim cōmederi<g ref="char:EOLhyphen"/>tis panem hunc, &amp; de po<g ref="char:EOLhyphen"/>culo biberitis, mortem Do<g ref="char:EOLhyphen"/>mini anunciatis donec ve<g ref="char:EOLhyphen"/>nerit. As ofte as youe shall eate this bread, and drinke of this cup, youe shew the Lords deathe vntill he co<g ref="char:EOLhyphen"/>me.</hi> And again he sayth.
+<note place="margin">Jbidem.</note>
+               <hi>Pro<g ref="char:EOLhyphen"/>bet autem homo seipsum, &amp; sic de pane illo edat. Let a man examine himself, &amp; so eate of that bread.</hi> Ther<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:176684:27"/>(for J maye cutt of all circunstances) it is bread. Wee haue likewyse in the A<g ref="char:EOLhyphen"/>ctes of the Apostles euiden<g ref="char:EOLhyphen"/>te testimonies to approue the same:
+<note place="margin">Acto. 2.</note>
+               <hi>Erant autem perse<g ref="char:EOLhyphen"/>uerantes in Doctrina A<g ref="char:EOLhyphen"/>postolorum, &amp; communi<g ref="char:EOLhyphen"/>catione, &amp; fractione panis, &amp; precationibus. And they contineued in the doctrine of the Apostles, in com<g ref="char:EOLhyphen"/>munication, breakinge of breade, and in prayers. Et frangentes persingulas do<g ref="char:EOLhyphen"/>mos panē,</hi>
+               <note place="margin">Jbidem.</note>
+               <hi>breaking breade
+<pb facs="tcp:176684:27"/>in euerye howse.</hi> This is playne, it is Bread, it can not be denyed. Wel futher:
+<note place="margin">Act. 2<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Cum conuenissent Discipuli ad frangendum panem, when the Disciples had commen together to breake breade.</hi> Beholde howe the Scriptures are full to confirme this Do<g ref="char:EOLhyphen"/>ctrine, see howe withoute cir<g ref="char:EOLhyphen"/>cunstances the sense is euiden<g ref="char:EOLhyphen"/>te. Yea S.
+<note place="margin">Jbidem.</note> Paule in the nighte before he tooke his iourney to Asson, doeth declare what it is, that we se. <hi>Cum ascendisset autem, fregisset{que}ue panem.
+<pb facs="tcp:176684:28"/>when he came vp agayn, &amp; had broken bread.</hi> Thus ha<g ref="char:EOLhyphen"/>ue you places ynough of holye Scripture, to proue that to bee bread, which you see, you ha<g ref="char:EOLhyphen"/>ue it sufficientlie shewed youe, that in this Sacramente of bread, &amp; wine, youe receaue by faithe the bodie, &amp; bloud of Christe spirituallie. Take hede therefore, that nonne of you be those, of whō it is thus written: <hi>God hath giuē thē the spirite of vnquietenes: eies that they shold not see,</hi>
+               <note place="margin">Esay. 6.</note>
+               <hi>&amp; eares that they shold not
+<pb facs="tcp:176684:28"/>heare, euon vntil this daye.</hi> God hath giuen vs eies, let vs vse them, he hath gyuē vs ea<g ref="char:EOLhyphen"/>res, let vs not abuse them. Trueth is trueth, dreames a<g ref="char:EOLhyphen"/>re dreames, the Gospell is per<g ref="char:EOLhyphen"/>fecte, &amp; godlye, mens exposi<g ref="char:EOLhyphen"/>tions are mayme, they are weake, they are without cer<g ref="char:EOLhyphen"/>taynetie. This muche at this present maye suffice: to me it doeth, for that J see the truth, to you it may, seing you doe, or may see it. For if youe belieue that our sauiour was incarna<g ref="char:EOLhyphen"/>te, thē away with foolish obsti<g ref="char:EOLunhyphen"/>nate
+<pb facs="tcp:176684:29"/>carnalitie, yfwe thinke that the spirite quickeneth, cōsider that we receiue Christ spiritually, if we haue afiance in the worde of God, in the Scripture, thē let vs renounce Munkishe dreames, and all Cauphernaites murmure, if wee belieue that God is God, then awaye with vngodlynes, auoyde al Popishe heathines, beware of Antechrist, stande stedfaste in faith, be Christi<g ref="char:EOLhyphen"/>ans, and that you, that J, that we all may so be, Christ gra<g ref="char:EOLhyphen"/>unte it: Amen.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:176684:29"/>
+            <head>¶ THE ABSVRDI<g ref="char:EOLhyphen"/>ties wherein those are that confesse the carnall <hi>presence.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>OME doe allea<g ref="char:EOLhyphen"/>ge that the breade is turned into Crist his bodye, the wy<g ref="char:EOLhyphen"/>ne into his bloud, &amp; the wa<g ref="char:EOLhyphen"/>ter into nothing. But som doe denye that there is any suche turning, &amp; therfore they say: <hi>Fit autem conuersio rerum secundum quosdam.</hi>
+            </p>
+            <p>Some doe say, that the wine, &amp; the water are turned into bloud: But some others saye,
+<pb facs="tcp:176684:30"/>that the water is tourned into waterishe humoures.</p>
+            <p>Some others also there are which affirme, that the wine and water are turned, <hi>non vt duo,</hi> not as twoe thinges, <hi>sed vnum compactum,</hi> but be<g ref="char:EOLhyphen"/>ing one compacte thing.</p>
+            <p>Some saye that the former substance of bread, &amp; wyne, is becōme the fleash, &amp; bloud of Christ: But some others doe holde that the substance of breade, &amp; wyne, doeth there ceasse to be, &amp; that it is beco<g ref="char:EOLhyphen"/>me to be nothing.</p>
+            <pb facs="tcp:176684:30"/>
+            <p> Some doe saye that the sub<g ref="char:EOLhyphen"/>stance of bread &amp; wine doeth remayne still, &amp; that yet the<g ref="char:EOLhyphen"/>re is carnallie there the bodye of Christ.</p>
+            <p>Some say that of wine with<g ref="char:EOLhyphen"/>out water the bloud of Christe can not be made: others doe saye that it can, but yet that it ought not to be done. Others doe say that the water is to be put into the chalice for hone<g ref="char:EOLhyphen"/>stie sake.</p>
+            <p>Some say, that it can be ma<g ref="char:EOLhyphen"/>de of boiled wine, some say, no: some say of vinegre, but some
+<pb facs="tcp:176684:31"/>put therin a douhte.</p>
+            <p>Some saye, that the breade muste be onelye of water and meale: some saye otherwise.</p>
+            <p>Some say, that the bodye of Christ can not bee made seue<g ref="char:EOLhyphen"/>rallie from the bloud, nor the bloud seueralli from the body: some saye, that they can.</p>
+            <p>Some say, that the bodye of Christ is not receiued without his bloud, nor that the bloud is receaued without his bodie, so that they receiue him for once twise, for one body, two bodies. But yet these wil not haue the
+<pb facs="tcp:176684:31"/>breade to be transubstantia<g ref="char:EOLhyphen"/>ted into his bloud, nor the wi<g ref="char:EOLhyphen"/>ne into his body, but they wold haue they can not tell what.</p>
+            <p>Some say, that they doe eate twoe partes of Christ his body dry, &amp; the third dipte in the bloud, the one for the soules of the Sainctes, the seconde for the soules in Purgatorie, and the thirde for suche sinners as be liuinge: but others doe mi<g ref="char:EOLhyphen"/>slike this, &amp; they will haue in it an other meaning.</p>
+            <p>Some say, that the body goeth not into oure stomakes: some
+<pb facs="tcp:176684:32"/>saye otherwyse: some saye, that assoone as the fourmes of breade, and wine are touched with our teethe, then is the bo<g ref="char:EOLhyphen"/>dye of Christ by and by snat<g ref="char:EOLhyphen"/>ched vp into heauen.</p>
+            <p>Some say that the transub<g ref="char:EOLhyphen"/>stantiacion is made by <hi>Hoc,</hi> som by <hi>Est,</hi> some by <hi>Corpus,</hi> some by <hi>Accipite,</hi> some by the whole forme, some by they knowe not what.</p>
+            <p>Some saye that the bread is turned into his bodie, but that it is not becomme his bodye.</p>
+            <p>Some saye, that the bodye of
+<pb facs="tcp:176684:32"/>Christe is receaued withe his deytie, &amp; soule: some say, no.</p>
+            <p>Some saye, that Christe dyd eate him self, some saye other<g ref="char:EOLhyphen"/>wyse.</p>
+            <p>Some say, that an yuel priest can make Christ his bodie: so<g ref="char:EOLhyphen"/>me saye, that he can not.</p>
+            <p>Some doe holde one thinge, some an other, concerning the being of Christ in the sacra<g ref="char:EOLhyphen"/>mēt, that is, touching the pla<g ref="char:EOLhyphen"/>cing of his feete, handes, fa<g ref="char:EOLhyphen"/>ce, and other partes.</p>
+            <p>Some saye, it may be graun<g ref="char:EOLhyphen"/>ted, that a mouse eateth the
+<pb facs="tcp:176684:33"/>bodie of Christ: some say, no.</p>
+            <p>Thowe mayste heare see, (Christen Reader) if thou hast eyes, howe these mens eyes bee blinded, howe their mindes bee occupied in va<g ref="char:EOLhyphen"/>nitie. In vanitie? na, in in<g ref="char:EOLhyphen"/>fidelitie, in carnalitie, in bla<g ref="char:EOLhyphen"/>sphemie. But amongest whom is this discorde, &amp; diuersitie? inter Doctores, amongest the Doctors, amōgst proude Pre<g ref="char:EOLhyphen"/>lates, amongest such peruer<g ref="char:EOLhyphen"/>se men, as haue made of Christ his religion a mockerie, of Christianitie a very lumpe of
+<pb facs="tcp:176684:33"/>heathenesse, &amp; ydolatrie. doe thou therefore (deere Rea<g ref="char:EOLhyphen"/>der) the parte of a wise man, wander not with thē, doe the part of a godly man, gadd not after their lustes, looke to thy selfe, take holde on the scripture, let not man delude thee.</p>
+            <p>Ieremie. <hi>8.</hi>
+            </p>
+            <p>¶ Thus sayth the Lord: doeth he that falleth, neuer ryse vp agayne? and doeth hee that goeth awaye, neuer returne? why then is this people, and
+<pb facs="tcp:176684:34"/>Jerusalem gonne so far bac<g ref="char:EOLhyphen"/>ke, and so frowardelie? they haue layde holde vpon a lye, &amp; they wold not returne. &amp;c beholde the penne of the scri<g ref="char:EOLhyphen"/>bes setteth furthe meere lyes: the wyse are confounded, they are afrayde, and taken: for so they haue cast out the woor<g ref="char:EOLhyphen"/>de of the Lorde, neyther is there anye wysedo<g ref="char:EOLhyphen"/>me amongest them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:176684:34"/>
+            <head>¶ An aunswere to certen <hi>rebukes, &amp; ambushemen<g ref="char:EOLhyphen"/>tes,</hi> deuysed, and daylye practi<g ref="char:EOLhyphen"/>sed by myne aduersaries, agaynst me.</head>
+            <p>
+               <seg rend="decorInit">O</seg>NE vpon a ty<g ref="char:EOLhyphen"/>me asked of <hi>Cleobulus,</hi> what thinges speciallie were to bee aduoyded: The enuye (sayth hee) of frendes, and the craftie fetch, ambushemē<g ref="char:EOLhyphen"/>te, &amp; conspiracies of enemies. Here touching the firste, J am nothinge of <hi>Cleobulus</hi> his minde. For howe can he be a frend vnto him, whose good happe, and prosperitie, he doeth grudge, murmu<g ref="char:EOLhyphen"/>re, and enuie at? concerning the other, that is, of the subtile wiles of enemies to bee forseene, J see, and J fynde it by experience true, that if the entrappinges, and crafte vsed by aduersaries, be not, and that with good heede, and in tyme looked vnto, the harmeles may seme hurtefull, the innocente may seme giltie, the offender shalbe ac<g ref="char:EOLhyphen"/>quited, &amp; the true man shallbe condemned. For, not to speake of others, J perceaue towardes my selfe so manye deuises pretended, so manye wayes assayd, and so muche subteltie imagined, that yt is in a maner, but in vayne to goe aboute to
+<pb facs="tcp:176684:35"/>withstande their dartes, gonne shotte, &amp; assaul<g ref="char:EOLhyphen"/>tes. Yet, as the olde, &amp; true saying is, if God bee with vs, who can be against vs? If the truethe be on my syde, then let Satan doe what he can, let whisperers out with their deuises, let all subtel<g ref="char:EOLhyphen"/>tie be vsed, J recke not, J care not, J passe not. But what is yt that moueth them herevnto? or what thing is it, that they deuise against me? moued they are therevnto, throughe self lyking, self loue, selfe will, throughe hate, throughe spight, throughe enuie: The thing it self, that they deuise agaynst me, is this: they laboure as earnestlye as they can, to bring my name into contempte, and my doinges to be disdeygned. And why? forsooth not for any matter they haue to <hi>Euans,</hi> but it is, that so in him, they might the rather oppresse the trueth, that so they might refiste godlynes, &amp; set vp, and that nayled vnto walles, their blinde Poppettes, their pretie litle goddes, their dumbe Babes, &amp; deafe wodden Angels. But howe goe they aboute to bring their practise against me to effecte? you shall heare, for J doe heare, &amp; see them. Fyrste co<g ref="char:EOLhyphen"/>meth the stationer, he hydeth my Booke, and ex<g ref="char:EOLhyphen"/>cept it be asked for, it may in no wise be set furth to be sene. And yet when money cometh, then out it goeth. <hi>Quid non mortalia pectora cogis, sacra auri fames?</hi> Well, my Booke is in the ende solde, God knowethe, with a grudging, and
+<pb facs="tcp:176684:35"/>a heauie hart, &amp; if he know well the byar, thē ge<g ref="char:EOLhyphen"/>ueth he the booke by names, he rayleth agaynst the autor, he vseth asmuch humanitie as may be. Oh leaue your lewdenes, J know your wordes, &amp; who you are. Now when the stationer hath playd his parte, then cometh in the pagente other personnes, and thereof some not of lowe degrees. Euery one playeth featelie his parte, one sayth, J am a foole, one affirmeth that J am yong, &amp; rashe, one allea<g ref="char:EOLhyphen"/>geth that J am vnlearned, one telleth that J am waxen madde, &amp; an other reporteth that J am blynded. And thus goeth this foolishe, yong, ra<g ref="char:EOLhyphen"/>she, vnlearned, madde, blynde pagente forwarde. To what purposse sholde J shew, what frownin<g ref="char:EOLhyphen"/>ges they make, what staringe they kepe, what noddinges they vse, and what thoughtes they ha<g ref="char:EOLhyphen"/>ue? And is this all? no. For there is one sorte of men, that haue ioyned handes in this conspiracie, but they maye not be sene in the tragedie. These will playe with suche iugling their parts, that they wilbe both players, and lookers on, and that at once. <hi>Tantae artes, solertia tanta nocendi:</hi> Suche subteltie they haue, suche secrete deuises they vse. But who are they? for nonne are so to bee feared as these. They are suche, to be playne with youe, who in outewarde demeanure seme to bee earnest Protestantes, for they defie the Pope, they will take, if they be required, double othes a<g ref="char:EOLhyphen"/>gaynst
+<pb facs="tcp:176684:36"/>him, they will sweare, &amp; forsweare him, they will insweare, &amp; outesweare him, they will seme to deale with nonne of his syde. But in se<g ref="char:EOLhyphen"/>crete doinges, and in priuie dealinges, <hi>Sinon</hi> is a suttell fellowe. These kinde of men are they, whom J feare, and therefore J geue you warning of them. For they hauing on, the countenance of Protestantes, &amp; then vnder the collour of a gra<g ref="char:EOLhyphen"/>ne zeale, sometymes commending me, and some<g ref="char:EOLhyphen"/>tymes myslyking me, what good Protestante can, excepte he know eyther thē, or me well, but hear<g ref="char:EOLhyphen"/>ken vnto them, and repoarte then after them? as it is no poynte of humanitie for these thus to deale, so it is no modestie, for me to speake anye thing in myne owne commendacion. This J may saye: a synner J am, J can not iustifie my self. Yea, to aunswere their sclaunders, J maye further saye that for yeares, J am as olde as some of their Po<g ref="char:EOLhyphen"/>pes were: for my lyfe, let it be layd in balance with their Doctors, and chiefe, J aske no fauour, let it be fifted, and well weyd. Vnwilling J am to saye thus much, yet the cause cōsidered, it may be sayd. For learning, let a whole synode of their barba<g ref="char:EOLhyphen"/>rous Syr Johns confute, if they can, my doin<g ref="char:EOLhyphen"/>ges: touching madnes, it was some madde bray<g ref="char:EOLhyphen"/>ne that sclaundered me: for J thanke God, J ne<g ref="char:EOLhyphen"/>uer knewe what it meante, except when J offered to ydoles, when J kyssed blinde blockes, when J
+<pb facs="tcp:176684:36"/>reuerenced candels, when J honoured their false earthe, and when J adoured their counterfaicte bloud. For, oh in how many Churches haue J se<g ref="char:EOLhyphen"/>ne, that say: that they had their deceapteful earth from Jerusalē, their feyned bloud made by mira<g ref="char:EOLhyphen"/>cles, &amp; that alleage that they haue, <hi>Praeputium Domini,</hi> his coate, his crosse, nayles, hammer, and all? what is deceapte, if this be not? what is madnes, if this is not? howe manye coates had Christ? howe manye crosses suffered he on? howe long shall wee be feade in blindenes? Oh, howe long shall we be lead in suche lewdenes? well, God make vs all learned if we be not, God make vs all good if we are not, God lende vs eyes if we see not. God lende vs eares if we heare not, and God gra<g ref="char:EOLhyphen"/>unte that frendelye, charitablye, and willinglye. we maye seeke the truethe, and exhorte one an other, that lyuing here in perfecte charitie together, we maye in the ende lyue in heauen, and enioye that rest, which God for hys hath prepa<g ref="char:EOLhyphen"/>red. Amen.</p>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:176684:37"/>
+            <p>
+               <figure>
+                  <p>LV CRECIA-ROMANA</p>
+               </figure>
+            </p>
+            <p>
+               <hi>Jmprinted at London in</hi> Pawles Churchyarde, at the Signe of the Lucrece: By Thomas Purfoote.</p>
+            <pb facs="tcp:176684:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
